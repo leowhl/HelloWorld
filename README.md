@@ -1,2 +1,2 @@
 # HelloWorld
-just another respository
+I'm learning JavaScript!
